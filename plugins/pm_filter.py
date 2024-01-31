@@ -1363,7 +1363,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 Contact 🐞", url=f"@PreDVD_ChatBot")
             ],[
-                InlineKeyboardhttps://t.me/addlist/lDx-uWhVnDxlMGRlhttps://t.me/addlist/lDx-uWhVnDxlMGRl")
+                InlineKeyboardButton(text=f"❤️‍🔥Join All ❤️‍🔥",url=f"https://t.me/addlist/lDx-uWhVnDxlMGRl")
 
             ]]
             btn_lzdv = [
